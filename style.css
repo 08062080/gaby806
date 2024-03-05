@@ -1,8 +1,9 @@
 :root{
     --cor-de-fundo: #eccba4;
-    --texto:#000000;
+    --texto:#000000; 
 }
+/* fffffffffff */
 body{
-    background-color:var(--cor-de-fundo)
-    
+    background-color:var(--cor-de-fundo);
+    color: var(--texto);
 }

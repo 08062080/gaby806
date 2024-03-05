@@ -1,4 +1,5 @@
-body{
-    background-color: #eccba4;
+:root{
+    --cor-de-fundo: #eccba4;
 }
-
+body{
+    background-color:var(--cor-de-fundo);
